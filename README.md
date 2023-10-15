@@ -7,4 +7,5 @@ You can see my solution here: https://www.frontendmentor.io/solutions/responsive
 Any suggestions on how I can improve are welcome!
 
 <h1>Design </h1>
-![desktop-preview](https://github.com/pouripz/Huddle-landing-page/assets/134682861/aa563326-eb20-4ef7-a27a-02b8b950086f)
+
+![desktop-preview](https://github.com/pouripz/Huddle-landing-page/assets/134682861/c2e7282e-31aa-40fa-a331-7ab7b7705da5)
